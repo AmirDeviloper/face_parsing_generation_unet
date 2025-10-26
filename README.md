@@ -30,11 +30,12 @@ The system includes:
 
 ## ⚙️ Requirements
 
-To run this project, you’ll need:
+
+
 
 - 🐍 Python 3.8 or newer  
 - 📦 `tensorflow`, `keras`, `opencv-python`, `scikit-learn`, `numpy`, `matplotlib`, `tkinter`  
-- 🖼️ CelebAMask-HQ dataset (download separately)  
+- 🖼️ CelebAMask-HQ dataset ([for more info](https://github.com/switchablenorms/CelebAMask-HQ))
 - 💻 NVIDIA GPU (recommended for training)
 
 ---
@@ -43,6 +44,9 @@ To run this project, you’ll need:
 
 Here’s a preview of the GUI-based face composer:
 
+<img width="584" height="628" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/203f6b21-e103-4388-a029-e20189a6521b" />
+
+To run this project, you’ll need:<img width="1469" height="948" alt="img_" src="https://github.com/user-attachments/assets/3df6a71a-3830-488e-b8a7-b2826bd8098b" />
 
 ---
 
